@@ -1,0 +1,13 @@
+*.sassc
+*.scssc
+*.DS_Store
+sass/.sass-cache
+sass/0.site-settings/config.rb
+sass/1.base/config.rb
+sass/2.layout/config.rb
+sass/3.module/config.rb
+sass/4.state/config.rb
+sass/5.theme/config.rb
+
+.DS_Store
+
