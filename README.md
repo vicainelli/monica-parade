@@ -2,6 +2,11 @@
 
 Experimento usando a API do Google Maps para mostrar os locais das obras da Mônica Parade.
 
+
+## Links
+Lista dos locais das esculturas (não oficial)
+[https://docs.google.com/spreadsheet/ccc?key=0Aka7x_yrsjjedEVKOXFzMnVjQkFpSGZEOUlZWTdNWVE&usp=sharing](https://docs.google.com/spreadsheet/ccc?key=0Aka7x_yrsjjedEVKOXFzMnVjQkFpSGZEOUlZWTdNWVE&usp=sharing)
+
 ## Como contribuir?
 
 1. Faça um fork deste projeto!
