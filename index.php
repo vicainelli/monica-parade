@@ -17,7 +17,7 @@
 
 	<meta charset="UTF-8">
 	<meta name="viewport" content="initial-scale=1.0, user-scalable=no">
-	<title>Mônica Parade</title>
+	<title>Mônica PARADE</title>
 
 <!--[if lt IE 9]>
 	<script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
@@ -38,11 +38,9 @@
 </head>
 <body>
 
-	<div class="box__sidebar">
-		<div class="box_logotipo"><img src="images/logotipo-monica-parade.jpg" alt=""></div>
-	</div>
+
 	<div class="box__main-content">
-		<div id="mapa_locais" class="mapa_locais"></div>
+		<div id="map-canvas" class="mapa_locais"></div>
 	</div>
 
 <!-- Javascript -->
